@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100">
+  <style>
+    .logo-text { font-family: Arial, sans-serif; font-weight: bold; }
+    .tagline { font-family: Arial, sans-serif; font-size: 6px; letter-spacing: 1px; }
+  </style>
+  <!-- SSA Letters with tennis ball design -->
+  <g fill="#1a1a1a">
+    <!-- S -->
+    <path d="M10 20 Q10 10 25 10 Q40 10 40 20 Q40 30 25 35 Q10 40 10 50 Q10 60 25 60 Q40 60 40 50"
+          stroke="#1a1a1a" stroke-width="4" fill="none"/>
+    <!-- S -->
+    <path d="M45 20 Q45 10 60 10 Q75 10 75 20 Q75 30 60 35 Q45 40 45 50 Q45 60 60 60 Q75 60 75 50"
+          stroke="#1a1a1a" stroke-width="4" fill="none"/>
+    <!-- A with tennis ball -->
+    <path d="M80 60 L95 10 L110 60 M85 45 L105 45"
+          stroke="#1a1a1a" stroke-width="4" fill="none"/>
+  </g>
+
+  <!-- Tennis ball on top of A -->
+  <circle cx="95" cy="8" r="6" fill="#9AB61A"/>
+  <path d="M91 4 Q95 8 91 12 M99 4 Q95 8 99 12" stroke="white" stroke-width="1" fill="none"/>
+
+  <!-- Tagline -->
+  <text x="60" y="78" text-anchor="middle" class="tagline" fill="#666">ADOPT NURTURE DELIVER</text>
+</svg>
